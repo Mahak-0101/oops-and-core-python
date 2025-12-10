@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Billing System",
+        "status": "Completed"
+    },
+    {
+        "title": "ATM Simulation",
+        "status": "In Progress"
+    },
+    {
+        "title": "Student Database",
+        "status": "Pending"
+    }
+]
